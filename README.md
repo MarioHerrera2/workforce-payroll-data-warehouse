@@ -20,7 +20,7 @@ OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 
 ## 📷 Screenshots
 
-### ETL Pipeline
+### ➡️⚙️➡️ ETL Pipeline
 ![ETL Pipeline](09_Screenshots/ssis_master_flow.gif)
 
 ### Data Warehouse
