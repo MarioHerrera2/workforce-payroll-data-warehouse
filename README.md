@@ -24,7 +24,7 @@ OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 ![ETL Pipeline](09_Screenshots/ETL_Flow.gif)
 
 ### 🏭 Data Warehouse 
-![Data Warehouse](09_Screenshots/StarSchema&OLTP_ERD.gif)
+![Data Warehouse](09_Screenshots/DataWarehouse_OLTP.gif)
 
 ### 📋 ETL Run Log 
 ![Run Log](09_Screenshots/ETL_RunLog.png)
