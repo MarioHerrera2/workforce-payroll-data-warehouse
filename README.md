@@ -18,7 +18,7 @@ OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 - Validation checks for row counts, totals, and missing keys
 - SSRS dashboard with payroll, overtime, and trend analysis
 
-## Screenshots
+## 📷 Screenshots
 
 ### ETL Pipeline
 ![ETL Pipeline](09_Screenshots/ssis_master_flow.gif)
