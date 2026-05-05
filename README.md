@@ -1,17 +1,17 @@
 # Workforce Payroll Data Warehouse
 
-## Overview
+## 📊 Overview
 Built an end-to-end data pipeline using SQL Server, SSIS, and SSRS to transform HR and payroll data into a star schema data warehouse. The project includes ETL logging, validation checks, failure handling, and reporting dashboards for payroll analysis.
 
-## Tools Used
+## 🛠️ Tools Used
 - SQL Server
 - SSIS
 - SSRS
 
-## Architecture
+## 🧱 Architecture
 OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 
-## Key Features
+## 📦 Key Features
 - Star schema with FactPayroll and dimension tables
 - SSIS ETL pipeline across staging, dimensions, and fact layers
 - ETL run logging with success and failure tracking
@@ -32,5 +32,5 @@ OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 ### SSRS Report
 ![Final Report](09_Screenshots/final_report.gif)
 
-## Outcome
+## 📈 Outcome
 Delivered a complete data warehouse and reporting solution for analyzing payroll cost, overtime usage, and workforce trends.
