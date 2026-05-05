@@ -30,7 +30,7 @@ OLTP Database → Staging Layer → Data Warehouse → SSRS Reports
 ![Run Log](09_Screenshots/ETL_RunLog.png)
 
 ### 📑 SSRS Report 
-![Final Report](09_Screenshots/final_report.gif)
+![Final Report](09_Screenshots/Reportgif.gif)
 
 ## 📈 Outcome
 Delivered a complete data warehouse and reporting solution for analyzing payroll cost, overtime usage, and workforce trends.
